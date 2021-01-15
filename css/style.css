@@ -1,14 +1,11 @@
 body{
-    /*background-color: #e0ffff;*/
+    background-color: #d1f8f8;
 }
 .nav_img{
     height: 40px;
 }
 #banner h1 span{
-    color: rgb(223, 171, 1);
-}
-main{
-    /*background-color: #e6fd99;*/
+    color: #dfab01;
 }
 .card_img img{
     height: 300px;
@@ -17,7 +14,7 @@ main{
 .card_img{
     margin: 15px;
     background-color: #dddddd;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 .card_border{
     border-radius: 5px;
@@ -29,4 +26,16 @@ main{
 }
 button img{
     height: 1.5em;
+}
+#jackets h2, #shoes h2{
+    color: #836400;
+} 
+
+.left_box{
+    height: 150px;
+    border-radius: 15px;
+}
+.left_box img{
+    height: 100px;
+    padding: 10px;
 }
