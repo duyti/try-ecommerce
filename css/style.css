@@ -1,3 +1,32 @@
+body{
+    /*background-color: #e0ffff;*/
+}
 .nav_img{
     height: 40px;
+}
+#banner h1 span{
+    color: rgb(223, 171, 1);
+}
+main{
+    /*background-color: #e6fd99;*/
+}
+.card_img img{
+    height: 300px;
+}
+
+.card_img{
+    margin: 15px;
+    background-color: #dddddd;
+    border-radius: 10px;
+}
+.card_border{
+    border-radius: 5px;
+
+}
+.card_footer_border{
+    border: none;
+    background-color: white;
+}
+button img{
+    height: 1.5em;
 }
